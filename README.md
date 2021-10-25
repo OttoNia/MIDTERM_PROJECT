@@ -1,4 +1,4 @@
-# MIDTERM_PROJECT
+# MIDTERM_PROJECT_Hyewon_Kim
  
  Halloween concept shooting game
  
